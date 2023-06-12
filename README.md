@@ -1,16 +1,16 @@
 # Exp 8 Create a BMI Calculator using React
-## AIM:
+## Aim:
 To create react app to develop a complete BMI Calculator application.
-## PROCEDURE:
-### STEP 1:
+## Algorithm:
+### Step 1:
 Create react app by npm create-react-app.
-### STEP 2:
+### Step 2:
 Make changes to App.js where the bmi calculator works.
-### STEP 3:
+### Step 3:
 Include Style in the react using app.css and import it to App.js.
-### STEP 4:
+### Step 4:
 Verify the output by running the Web-Layout in any web browser. 
-## PROGRAM:
+## Program:
 ### App.css
 ```css
 .bmi-calculator {
@@ -171,8 +171,8 @@ root.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 ```
-## OUTPUT:
+## Output:
 ![image](https://github.com/Karthikeyan21001828/MERN_EX08/assets/93427303/1b01d221-3cd1-43b1-af7f-4c2be1491df8)
 
-## RESULT:
+## Result:
 React app to develop a complete BMI calculator application has been created and output has been verified.
